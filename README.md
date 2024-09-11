@@ -1,2 +1,2 @@
 # HDC-Host
-ALandpage in front-end
+A Landpage in front-end
